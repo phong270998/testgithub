@@ -1,0 +1,25 @@
+v14 co 15 ko
+
+account_edi_extended
+adyen_platforms
+crm_iap_lead /
+crm_iap_lead_enrich /
+crm_iap_lead_website
+l10n_be_invoice_bba
+l10n_ch_qriban
+l10n_eu_oss
+l10n_se_ocr
+mail_client_extension
+odoo_referral
+odoo_referral_portal
+payment_fix_register_token
+payment_ingenico
+payment_odoo_by_adyen
+procurement_jit
+sale_timesheet_edit
+sale_timesheet_purchase
+website_event_track_exhibitor
+website_form
+website_sale_management
+
+
